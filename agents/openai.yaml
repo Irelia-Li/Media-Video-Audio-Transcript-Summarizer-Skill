@@ -1,0 +1,4 @@
+interface:
+  display_name: "Media Transcript Summarizer"
+  short_description: "Transcribe audio/video files or links and summarize chunks."
+  default_prompt: "Use $media-transcript-summarizer to turn this audio/video file or link into a timestamped transcript with chunk summaries."
