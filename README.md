@@ -159,7 +159,7 @@ python scripts/transcribe_media.py "https://www.bilibili.com/video/BV1UARuBCEop/
   --language zh \
   --chunk-minutes 5
 ```
-
+Example：https://github.com/Irelia-Li/Media-Video-Audio-Transcript-Summarizer-Skill/tree/main/Example%EF%BC%9Abilibili_BV1UARuBCEop_local_transcript
 What happens:
 
 1. The video link is downloaded as audio.
